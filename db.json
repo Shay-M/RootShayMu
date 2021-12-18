@@ -1,9 +1,7 @@
 {
-  "info": {
     "name": "dog",
     "id": 1,
     "age": 5,
     "imag": "",
     "kind": "ling"
-  }
 }
